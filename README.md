@@ -7,6 +7,7 @@
 ### Favorite Projects
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <a href="https://github.com/lenguyen1807/Software-for-AI"><img loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyen1807&repo=Software-for-AI&theme=transparent&include_all_commits=true&hide_border=true&line_height=5&card_width=300px&text_color=838383&title_color=838383"></a>
+  <a href="https://github.com/lenguyen1807/yamc"><img loading="lazy" src="https://github-readme-stats.vercel.app/api/pin/?username=lenguyen1807&repo=yamc&theme=transparent&include_all_commits=true&hide_border=true&line_height=5&card_width=300px&text_color=838383&title_color=838383"></a>
 </div>
 
 ---
